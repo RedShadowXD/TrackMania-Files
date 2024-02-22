@@ -12,7 +12,7 @@
 - Texture mods that are reuploaded in case that the original file provider goes inactive.
 
 ## Music ##
-- No comment!
+- Can also include sounds.
 
 ## Signs ##
 - No comment!
